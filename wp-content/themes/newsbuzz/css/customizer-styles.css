@@ -1,0 +1,2 @@
+li#accordion-section-newsbuzz_premium h3 { background: #bd9452 !important; color: #fff !important; } #customize-theme-controls li#accordion-section-newsbuzz_premium .accordion-section-title:after { color:#333 !important; }
+li#accordion-section-newsbuzz_premium h3:before { content: '-55% Discount'; font-size: 9px; background: #d84343; text-align: center; line-height: 100%; padding: 7px; float: right; margin-right: 25px; display: block; margin-top: -1px; }
